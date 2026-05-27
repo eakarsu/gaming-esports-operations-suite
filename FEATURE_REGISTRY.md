@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Esports Performance
+
+- Match Analysis
+- Player Performance
+- Training Plan
+
+## Focused enhancement: Esports Performance
+
+Source evidence: AIEsportsPerformanceAnalyzer.

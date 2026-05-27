@@ -8,4 +8,20 @@ export type SourceDashboardAction = {
   count: number;
 };
 
-export const sourceDashboardActions: SourceDashboardAction[] = [];
+export const sourceDashboardActions: SourceDashboardAction[] = [
+  {
+    "id": "esports-performance",
+    "label": "Esports Performance",
+    "description": "Open Esports Performance workflows elevated from AIEsportsPerformanceAnalyzer.",
+    "href": "/match-analysis",
+    "sourceProjects": [
+      "AIEsportsPerformanceAnalyzer"
+    ],
+    "examples": [
+      "Match Analysis",
+      "Player Performance",
+      "Training Plan"
+    ],
+    "count": 1
+  }
+];

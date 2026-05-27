@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/training-plan`
+- `/player-performance`
+- `/match-analysis`
 - `/records`
 - `/assets`
 - `/calendar`
