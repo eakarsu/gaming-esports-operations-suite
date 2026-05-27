@@ -8,3 +8,5 @@
 - Rights operating view
 - Publishing operating view
 - Campaigns operating view
+
+- Esports Performance Deep Workflows operating view

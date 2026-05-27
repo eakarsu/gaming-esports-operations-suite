@@ -7,6 +7,10 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/tournament-prep-plan`
+- `/player-wellness-load`
+- `/map-pick-ban-analysis`
+- `/scrim-review`
 - `/training-plan`
 - `/player-performance`
 - `/match-analysis`
